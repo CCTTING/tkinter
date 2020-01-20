@@ -5,6 +5,7 @@
 #
 #
 # def gettime():
+#     #注意时分秒必须大写
 #     timestr=time.strftime('%H:%M:%S')
 #     print(timestr)
 #     lb.configure(text= timestr)
